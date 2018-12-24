@@ -28,3 +28,6 @@ This script exctract datas from excel file in .xlsx, I made a GUI too, but It's 
 
    You should have received a copy of the GNU General Public License
    along with this program.  If not, see <http://www.gnu.org/licenses/>.
+
+ ## AUTHOR
+   This program has been made by FallingCodes(me :) ), I hope It'll be useful!
