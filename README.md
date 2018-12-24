@@ -17,7 +17,10 @@ This script exctract datas from excel file in .xlsx, I made a GUI too, but It's 
  
  ## USAGE
  :~$ python3 excel-exctractor.py
-  
+ 
+ ## CONTRIBUTING
+ Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
+
  ## LICENSE
  
    This program is free software: you can redistribute it and/or modify
