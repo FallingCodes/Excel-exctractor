@@ -2,12 +2,16 @@
 This script exctract datas from excel file in .xlsx, I made a GUI too, but It's written in Italian and It has to bee improved too
 
 ## PREREQUISITES
- -Pyhon3
- -Libraries:
-  PyQt5
-  sys(99.9% It's already installed in your system)
-  matplotlib
-  xlrd
+ Pyhon3
+
+ PyQt5
+  
+ sys(99.9% It's already installed in your system)
+  
+ matplotlib (python3 library)
+  
+ xlrd (python3 library)
+  
   
  All of this libraries are installable by pip3
  
